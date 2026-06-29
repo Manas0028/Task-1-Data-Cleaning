@@ -100,9 +100,6 @@ Task-1-Data-Cleaning/
 ├── marketing_campaign.csv
 ├── marketing_campaign_cleaned.xlsx
 ├── README.md
-└── Data_Cleaning_Report.pdf (Optional)
-```
-
 ---
 
 ## Outcome
